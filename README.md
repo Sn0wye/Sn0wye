@@ -5,7 +5,7 @@
 - 🌱 Currently learning HTML, CSS, JavaScript, ReactJS, Node.JS.
 - 👯 I’m looking to collaborate on Web Projects
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Sn0wye">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sn0wye&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=synthwave"/>
