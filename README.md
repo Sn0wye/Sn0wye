@@ -4,6 +4,5 @@
 - 🔭 I’m currently looking for a job!
 - 🌱 I’m currently learning HTML, CSS, JavaScript, ReactJS, Node.JS.
 - 👯 I’m looking to collaborate on Web Projects
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: https://www.linkedin.com/in/gabriel-trzimajewski/ or https://twitter.com/GabTrzimajewski
