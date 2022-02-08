@@ -4,6 +4,13 @@
 - 🔭 I’m currently looking for a job!
 - 🌱 Currently learning HTML, CSS, JavaScript, ReactJS, Node.JS.
 - 👯 I’m looking to collaborate on Web Projects
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-trzimajewski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/gabtrzimajewski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrieltrz2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+##
 
 <div align="left">
   <a href="https://github.com/Sn0wye">
@@ -23,9 +30,7 @@
   ##
   
 <div> 
-  <a href="https://www.linkedin.com/in/gabriel-trzimajewski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/gabtrzimajewski" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrieltrz2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+  
   ![Snake animation](https://github.com/Sn0wye/Sn0wye/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
