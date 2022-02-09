@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently looking for a job!
-- 🌱 Currently learning HTML, CSS, JavaScript, ReactJS, Node.JS.
+- 🌱 Currently learning HTML, CSS, JavaScript, ReactJS.
 - 👯 I’m looking to collaborate on Web Projects
 <div>
   <a href="https://www.linkedin.com/in/gabriel-trzimajewski" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
