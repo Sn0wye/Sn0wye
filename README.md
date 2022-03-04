@@ -20,9 +20,9 @@
 </div>
 
 ##
-
+&nbsp <h1> Github Stats </h1>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
 
