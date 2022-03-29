@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently looking for a job!
-- 🌱 Currently learning HTML, CSS, JavaScript, React.
+- 🌱 Currently learning React, Typescript and CSS
 - 👯 Looking to collaborate on Web Projects
 
 ## &nbsp;Social Media 
