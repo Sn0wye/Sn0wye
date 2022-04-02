@@ -12,7 +12,7 @@
   <a href = "mailto:gabrieltrz2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 🛠 &nbsp;Tech Stack / Interests
+## 🛠 &nbsp;Tech Stack
   <div style="display: inline_block"><br>
     <img align="center" alt="Sn0wye-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sn0wye-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
