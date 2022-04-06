@@ -1,4 +1,4 @@
-## &nbsp;Hi there 👋 I'm Gabriel Trzimajewski!
+## &nbsp;Hi there! 👋 I'm Gabriel Trzimajewski!
 
 
 - 🔭 I’m currently looking for a job!
