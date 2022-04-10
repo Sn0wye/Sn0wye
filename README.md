@@ -30,6 +30,8 @@
   ##
   
 <div> 
+
+  <img src="https://github.com/Sn0wye/Sn0wye/tree/main/img/Japan.gif">
   
   ![Snake animation](https://github.com/Sn0wye/Sn0wye/blob/output/github-contribution-grid-snake.svg)
   
