@@ -1,9 +1,11 @@
 ## &nbsp;Hi there! 👋 I'm Gabriel Trzimajewski!
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=midnight-purple"/>
 
-- 🔭 I’m currently looking for a job!
-- 🌱 Currently learning React, Typescript and SCSS
-- 👯 Looking to collaborate on Web Projects
+### {
+- 🔭 hireable: true,
+- 🌱 learning: [react, typescript, sass],
+- 👯 colaborate: {webProjects: true},
+### }
 
 
 ## Social Media 
