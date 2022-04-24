@@ -4,7 +4,9 @@
 ### {
 - 🔭 hireable: true,
 - 🌱 learning: [react, typescript, sass],
-- 👯 colaborate: {webProjects: true},
+- 👯 colaborate: {
+- webProjects: true
+- },
 ### }
 
 
