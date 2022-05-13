@@ -1,5 +1,5 @@
-## &nbsp;Hi there! 👋 I'm Gabriel Trzimajewski!
 <img align="right" src="https://user-images.githubusercontent.com/95551770/168335458-1aa98621-3534-4495-9916-77a7bc767a59.png" />
+## &nbsp;Hi there! 👋 I'm Gabriel Trzimajewski!
 
 ### {
 - 🔭 hireable: true,
