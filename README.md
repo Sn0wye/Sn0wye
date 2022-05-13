@@ -1,11 +1,16 @@
 ## &nbsp;Hi there! 👋 I'm Gabriel Trzimajewski!
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img align="right" src="https://user-images.githubusercontent.com/95551770/168335458-1aa98621-3534-4495-9916-77a7bc767a59.png" />
 
 ### {
 - 🔭 hireable: true,
 - 🌱 learning: [react, typescript, sass],
 - 👯 colaborate: {webProjects: true},
 ### }
+
+## &nbsp;GitHub Stats
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+
 
 
 ## Social Media 
