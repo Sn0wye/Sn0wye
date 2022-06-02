@@ -40,4 +40,3 @@
   ![Snake animation](https://github.com/Sn0wye/Sn0wye/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-aa
