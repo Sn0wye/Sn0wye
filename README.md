@@ -2,17 +2,8 @@
 
 ## &nbsp;Hi there! 👋 I'm Gabriel Trzimajewski!
 
-while(alive) {
-<br/>
-&nbsp; eat();
-<br/>
-&nbsp; sleep();
-<br/>
-&nbsp; code();
-<br/>
-&nbsp; repeat();
-<br/>
-}
+<img src="https://user-images.githubusercontent.com/95551770/172956447-e39e56b8-2de0-494b-adcf-2e3d3209800e.png" width="350rem" />
+
 
 ## &nbsp;GitHub Stats
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=midnight-purple"/>
