@@ -2,11 +2,17 @@
 
 ## &nbsp;Hi there! 👋 I'm Gabriel Trzimajewski!
 
-### {
-- 🔭 hireable: true,
-- 🌱 learning: [react, typescript],
-- 👯 colaborate: {webProjects: true},
-### }
+while(alive) {
+<br/>
+&nbsp; eat();
+<br/>
+&nbsp; sleep();
+<br/>
+&nbsp; code();
+<br/>
+&nbsp; repeat();
+<br/>
+}
 
 ## &nbsp;GitHub Stats
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=midnight-purple"/>
