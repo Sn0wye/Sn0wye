@@ -2,7 +2,7 @@
 
 ## &nbsp;Hi there! 👋 I'm Gabriel Trzimajewski!
 
-<img src="https://user-images.githubusercontent.com/95551770/172956447-e39e56b8-2de0-494b-adcf-2e3d3209800e.png" width="350rem" />
+<!-- <img src="https://user-images.githubusercontent.com/95551770/172956447-e39e56b8-2de0-494b-adcf-2e3d3209800e.png" width="350rem" /> -->
 
 
 ## &nbsp;GitHub Stats
