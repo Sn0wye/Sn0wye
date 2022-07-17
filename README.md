@@ -4,6 +4,12 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/95551770/172956447-e39e56b8-2de0-494b-adcf-2e3d3209800e.png" width="350rem" /> -->
 
+<p align="center"> I'm the kind of guy who learns everything I like incredibly fast and self-taught. and if I really like it, I will learn. 
+  <br />
+  <a href="https://sn0wye-portfolio.vercel.app/">Check out my porfolio!</a>
+</p>
+
+
 
 ## &nbsp;GitHub Stats
 <div align="center">
