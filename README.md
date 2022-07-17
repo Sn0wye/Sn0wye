@@ -32,9 +32,8 @@
   </a>
 </div>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack | Tools
 
-### Languages and Frameworks
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" width="62" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="50" width="62" alt="nextjs logo"  />
