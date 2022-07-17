@@ -6,7 +6,11 @@
 
 
 ## &nbsp;GitHub Stats
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=midnight-purple"/>
+<div align="center">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sn0wye&theme=midnight-purple" alt="Sn0wye" />
+</div>
 
 ## &nbsp;Contact 
 <div align="left">
