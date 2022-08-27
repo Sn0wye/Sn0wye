@@ -7,7 +7,7 @@
 <div align="center"> 
   I'm the kind of guy who learns everything I like incredibly fast and self-taught. and if I really like it, I will learn. 
   <br />
-  <a href="https://sn0wye-portfolio.vercel.app/" target="_blank">Check out my porfolio!</a>
+  <a href="https://snowye.dev/" target="_blank">Check out my porfolio!</a>
 </div>
 
 
