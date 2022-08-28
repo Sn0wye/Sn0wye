@@ -5,12 +5,10 @@
 <!-- <img src="https://user-images.githubusercontent.com/95551770/172956447-e39e56b8-2de0-494b-adcf-2e3d3209800e.png" width="350rem" /> -->
 
 <div align="center"> 
-  I'm the kind of guy who learns everything I like incredibly fast and self-taught. and if I really like it, I will learn. 
+  I'm the kind of guy who learns everything I like incredibly fast and self-taught. Passionate about contributing to open source and turning the word into a better place.
   <br />
   <a href="https://snowye.dev/" target="_blank">Check out my porfolio!</a>
 </div>
-
-
 
 ## &nbsp;GitHub Stats
 <div align="center">
@@ -63,4 +61,3 @@
   ![Snake animation](https://github.com/Sn0wye/Sn0wye/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
