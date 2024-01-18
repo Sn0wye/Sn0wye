@@ -17,7 +17,6 @@
 while(alive) {
     eat();
     code();
-    sleep();
 
     if (!freeTime) {
         sleep();
