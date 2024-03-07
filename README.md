@@ -42,7 +42,7 @@ while(alive) {
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,mysql,docker,git,jest" />
+    <img src="https://skillicons.dev/icons?i=ts,golang,nodejs,mysql,postgres,docker,git,jest,vitest,react,tailwind" />
   </a>
 </p>
   
