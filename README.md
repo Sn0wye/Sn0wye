@@ -11,7 +11,7 @@
 ## Spoken languages
 - Portuguese (C2)
 - English (C1)
-- Russian (A1) - Learning
+- French (A1) - Learning
 
 ```ts
 while(alive) {
