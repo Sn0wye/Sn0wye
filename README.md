@@ -4,8 +4,8 @@
 
 
 <div> 
-  <p>I'm the kind of guy who learns everything I like incredibly fast and by my own. Passionate about contributing to open source and turning the word into a better place.</p>
-  <a href="https://snowye.dev/" target="_blank">Check out my porfolio!</a>
+  <p>I'm the kind of guy who learns everything I like incredibly fast and by my own. Passionate about contributing to open source and turning the world into a better place.</p>
+  <a href="https://snowye.dev/" target="_blank">Check out my portfolio!</a>
 </div>
 
 ## Spoken languages
