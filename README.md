@@ -1,42 +1,16 @@
 
 
-## &nbsp;Hi there! 👋 I'm Gabriel Trzimajewski
+## Hi, I'm Gabriel 👋
 
+   Brazilian dev, mostly Go and TypeScript. I like building the boring
+   infrastructure layer that makes the fun stuff possible — and I learn
+   new stacks fast enough that "I don't know it yet" has never been
+   a reason to say no.
 
-<div> 
-  <p>I'm the kind of guy who learns everything I like incredibly fast and by my own. Passionate about contributing to open source and turning the world into a better place.</p>
-  <a href="https://snowye.dev/" target="_blank">Check out my portfolio!</a>
-</div>
+[snowye.dev](https://snowye.dev) · gabriel@snowye.dev · [LinkedIn](https://linkedin.com/in/trzimajewski)
 
-## Spoken languages
-- Portuguese (C2)
-- English (C1)
-- French (A1) - Learning
-
-```ts
-while(alive) {
-    eat();
-    code();
-
-    if (!freeTime) {
-        sleep();
-        return;
-    }
-}
-```
-
-## &nbsp;Contact 
-<div align="left">
-  <a href="https://linkedin.com/in/gabriel-trzimajewski" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin"  />
-  </a>
-  <a href="mailto:gabriel@snowye.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail"  />
-  </a>
-  <a href="https://discordapp.com/users/825880323766222898" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord"  />
-  </a>
-</div>
+### Languages
+🇧🇷 Portuguese (C2) · 🇬🇧 English (C1) · 🇫🇷 French (A1, in progress)
 
 ## 🛠 &nbsp;Tech Stack | Tools
 
@@ -47,11 +21,6 @@ while(alive) {
 </p>
   
 <br/>
-
-## &nbsp;GitHub Stats
-<div align="left">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sn0wye&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
 
 <br/>
   
